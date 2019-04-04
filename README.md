@@ -1,5 +1,5 @@
 # machine_learning_a2
-Learned how to use Naive Bayes (including runtime) and Bag of Words broadly, Laplace Smoothing, Random Forests and K-means clustering.
+Naive Bayes (including runtime) and Bag of Words broadly, Laplace Smoothing, Random Forests and K-means clustering.
 
 You can view the full report [here](doc/a2report.pdf).
 
